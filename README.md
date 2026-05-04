@@ -17,4 +17,4 @@ npx skills add no3plane/lhw-skills -g --skill lhw-magic14
 | Skill | 简介 |
 |-------|------|
 | [lhw-magic14](./lhw-magic14/SKILL.md) | 从十四个角度打开格局 (sleight of mouth)
-
+| [lhw-bookfind](./lhw-bookfind/SKILL.md) | 想学某个知识领域但不知道读什么书时使用
